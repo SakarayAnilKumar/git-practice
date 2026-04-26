@@ -1,2 +1,2 @@
 hello git and git hub and adding new line for conflicts
-This is version 3
+This is version 3. this is master branch
