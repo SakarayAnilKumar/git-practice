@@ -1,2 +1,4 @@
 hello git and git hub and adding new line for conflicts
 This is version 3 testing mergeconflict
+
+This is line from github
